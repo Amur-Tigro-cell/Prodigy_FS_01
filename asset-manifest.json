@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Prodigy_FS_01/static/css/main.959c78d0.css",
+    "main.js": "/Prodigy_FS_01/static/js/main.96a1d8ac.js",
+    "static/js/453.825386d9.chunk.js": "/Prodigy_FS_01/static/js/453.825386d9.chunk.js",
+    "index.html": "/Prodigy_FS_01/index.html",
+    "main.959c78d0.css.map": "/Prodigy_FS_01/static/css/main.959c78d0.css.map",
+    "main.96a1d8ac.js.map": "/Prodigy_FS_01/static/js/main.96a1d8ac.js.map",
+    "453.825386d9.chunk.js.map": "/Prodigy_FS_01/static/js/453.825386d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.959c78d0.css",
+    "static/js/main.96a1d8ac.js"
+  ]
+}
