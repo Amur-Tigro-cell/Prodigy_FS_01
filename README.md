@@ -2,12 +2,6 @@
 
 A full-stack web application implementing secure user authentication and authorization using React.js, Node.js, Express, and MongoDB.
 
-## 🚀 Live Demo
-
-**Frontend (GitHub Pages)**: https://Amur-Tigro-cell.github.io/Prodigy_FS_01
-
-**Backend (Render)**: https://mern-auth-backend.onrender.com
-
 ## Features
 
 ### Authentication
@@ -40,19 +34,7 @@ A full-stack web application implementing secure user authentication and authori
 - JWT middleware
 - Input validation with express-validator
 
-## 🌐 Deployment
-
-### Frontend (GitHub Pages)
-- Built with React and deployed to GitHub Pages
-- Static site hosting
-- URL: https://Amur-Tigro-cell.github.io/Prodigy_FS_01
-
-### Backend (Render)
-- Node.js/Express API deployed to Render
-- MongoDB Atlas integration
-- URL: https://mern-auth-backend.onrender.com
-
-## 📁 Project Structure
+## Project Structure
 
 ```
 mern-auth/
@@ -61,8 +43,7 @@ mern-auth/
 │   │   └── User.js                 # User schema and model
 │   ├── routes/
 │   │   ├── auth.js                 # Authentication routes
-│   │   ├── protected.js            # Protected routes
-│   │   └── admin.js               # Admin routes
+│   │   └── protected.js            # Protected routes
 │   ├── middleware/
 │   │   └── auth.js                 # JWT middleware
 │   ├── .env                        # Environment variables
@@ -80,13 +61,12 @@ mern-auth/
 │   │   │   ├── LoginPage.tsx       # Login page
 │   │   │   ├── RegisterPage.tsx    # Registration page
 │   │   │   ├── DashboardPage.tsx   # Protected dashboard
-│   │   │   ├── CreateAdminPage.tsx # Admin creation
-│   │   │   └── AdminDashboardPage.tsx # Admin panel
+│   │   │   └── AuthPages.css       # Auth page styles
 │   │   ├── services/
 │   │   │   └── api.ts              # API service
+│   │   ├── App.tsx                 # Main app component
 │   │   └── .env                    # Frontend environment variables
-│   ├── package.json                # Frontend dependencies
-│   └── build/                     # Production build
+│   └── package.json                # Frontend dependencies
 └── README.md                       # This file
 ```
 
