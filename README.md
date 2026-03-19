@@ -1,5 +1,7 @@
 # MERN Stack Authentication System
 
+🚀 **Live Demo**: [https://amur-tigro-cell.github.io/Prodigy_FS_01/](https://amur-tigro-cell.github.io/Prodigy_FS_01/)
+
 A full-stack web application implementing secure user authentication and authorization using React.js, Node.js, Express, and MongoDB.
 
 ## Features
